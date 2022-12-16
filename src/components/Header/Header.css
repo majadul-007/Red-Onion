@@ -1,0 +1,34 @@
+.navbar-brand img{
+    width: 150px;
+
+}
+.container ul{
+    /* display: flex;
+     */
+     /* text-align: right; */
+
+     /* float: right; */
+}
+.container ul li{
+    /* text-align: right; */        
+    /* margin-left: 400px; */
+    margin-right: 20px;
+    color: black;
+}
+.container .cart-icon li{
+    margin-left: 710px;
+}
+.container .main-btn .sign-up-btn{
+    /* margin-left: 500px; */
+}
+button.btn.btn-rounded.btn-danger.sign-up-btn{
+    /* margin-right: 10px; */
+    border-radius: 20px;
+}
+.button.btn.btn-warning.tg-primary.login-btn{
+    
+
+}
+ul .badge bg-ligt{
+    color: black;
+}

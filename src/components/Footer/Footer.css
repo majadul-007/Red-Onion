@@ -1,0 +1,12 @@
+footer img{
+    height: 60px;
+}
+footer  a{
+    color: #ffffff;
+    display: block;
+    line-height: 2;
+}
+.footer-area ul li{
+    color: white;
+    cursor: pointer;
+}
